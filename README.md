@@ -7,7 +7,7 @@
 
 ## ⚡ About
 
-- 🎓 3rd Sem Undergraduate @ KR Mangalam University, Noida  
+- 🎓 B-tech Student in @ KR Mangalam University, Noida  
 - 💻 Building strong foundation in **Data Structures & Algorithms**  
 - 🔥 Consistent problem solver  
 - 🎯 Target: Crack top tech companies  
