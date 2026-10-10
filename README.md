@@ -7,10 +7,9 @@
 
 ## ⚡ About
 
-- 🎓 B-tech Student in @ KR Mangalam University, Noida  
-- 💻 Building strong foundation in **Data Structures & Algorithms**  
-- 🔥 Consistent problem solver  
-- 🎯 Target: Crack top tech companies  
+- 🎓 B-tech Student in @ KR Mangalam University, GuruGram
+- 💻 Building strong foundation in **Data Structures & Algorithms and AI/ML**  
+- 🎯 Target: Crack top tech companies 
 
 ---
 
